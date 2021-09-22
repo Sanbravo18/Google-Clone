@@ -49,3 +49,19 @@ nav .nav-right-section img{
     height: 36px;
     padding: 4px;
 }
+
+main{
+    margin-top: 150px;
+    text-align: center;
+
+}
+
+main .main-logo {
+    width: 530px;
+    margin: 0 auto; /* auto -> nuestra etique siempre estara en el centro */
+    margin-bottom: 35px;
+}
+
+main .main-logo img{
+    width: 300px;
+}
